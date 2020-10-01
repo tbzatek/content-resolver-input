@@ -105,7 +105,6 @@ data:
     - libstoragemgmt-targetd-plugin
     - libstoragemgmt-udev
     - libudisks2
-    - lsscsi
     - mt-st
     - python3-blivet
     - python3-blockdev
